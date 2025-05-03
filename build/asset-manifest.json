@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1c505d2.css",
-    "main.js": "/static/js/main.68515f88.js",
-    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/Curriculum Vitae - Jan Jefferson O. Lam.pdf": "/static/media/Curriculum Vitae - Jan Jefferson O. Lam.3957bbb85dc02733011f.pdf",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "main.css": "/static/css/main.58b8ae62.css",
+    "main.js": "/static/js/main.bc2bceeb.js",
+    "static/media/portfolio-1.png": "/static/media/portfolio-1.2db6998169d5375cb39f.png",
+    "static/media/JJ.png": "/static/media/JJ.4c48b70a459751d67539.png",
+    "static/media/portfolio-2.png": "/static/media/portfolio-2.c64bc9afd5a3b422beee.png",
+    "static/media/portfolio-3.png": "/static/media/portfolio-3.ad3835b1f6a3b155da77.png",
+    "static/media/The Great Ulysseus Zero1.png": "/static/media/The Great Ulysseus Zero1.6a01462102855725e105.png",
+    "static/media/JanJefferson_Lam_CV.pdf": "/static/media/JanJefferson_Lam_CV.16f08389e36c35a2dfbe.pdf",
+    "static/media/portfolio-4.png": "/static/media/portfolio-4.fa7451edbc63b21cb436.png",
     "index.html": "/index.html",
-    "main.c1c505d2.css.map": "/static/css/main.c1c505d2.css.map",
-    "main.68515f88.js.map": "/static/js/main.68515f88.js.map"
+    "main.58b8ae62.css.map": "/static/css/main.58b8ae62.css.map",
+    "main.bc2bceeb.js.map": "/static/js/main.bc2bceeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1c505d2.css",
-    "static/js/main.68515f88.js"
+    "static/css/main.58b8ae62.css",
+    "static/js/main.bc2bceeb.js"
   ]
 }
