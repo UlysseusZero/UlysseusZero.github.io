@@ -4,8 +4,6 @@ import IMG1 from '../../assets/portfolio-1.png'
 import IMG2 from '../../assets/portfolio-2.png'
 import IMG3 from '../../assets/portfolio-3.png'
 import IMG4 from '../../assets/portfolio-4.png'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 
 
